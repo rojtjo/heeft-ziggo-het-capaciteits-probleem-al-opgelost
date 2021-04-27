@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body class="antialiased bg-gray-50">
-    <div class="h-screen flex justify-center items-center flex-col max-w-xl mx-auto text-center px-4">
-        <h1 class="text-4xl tracking-wider">Heeft Ziggo het capaciteitsprobleem al opgelost?</h1>
+<body class="antialiased bg-gray-50 px-4">
+    <div class="h-screen flex justify-center items-center flex-col max-w-xl mx-auto text-center break-words">
+        <h1 class="text-4xl tracking-tight">
+            Heeft Ziggo het capaciteitsprobleem al opgelost?
+        </h1>
 
-        <p class="text-5xl font-semibold tracking-widest mt-6 animate-bounce" style="color: #F48C00">NEE</p>
+        <p class="text-5xl font-bold tracking-tight mt-6 animate-bounce" style="color: #F48C00">Nee 🙁</p>
     </div>
 </body>
 </html>
