@@ -13,7 +13,7 @@
             Heeft Ziggo het capaciteitsprobleem al opgelost?
         </h1>
 
-        <p class="text-5xl font-bold tracking-tight mt-6 animate-bounce" style="color: #F48C00">Nee 🙁</p>
+        <p class="text-5xl font-bold tracking-tight mt-6 animate-bounce" style="color: #F48C00">Ja 😊</p>
     </div>
 </body>
 </html>
